@@ -1,0 +1,84 @@
+*{
+    font-family: "Oswald";
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+.formulario{
+    width: 400px;
+    margin: 15px auto;
+    background-color: #84b6f4;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: white;
+   
+}
+.formulario h1{
+    margin: 3px 0;
+    font-size: 30px;
+}
+
+.formulario button{
+    color: black;
+    padding: 15px 25px;
+    font-size: 14px;
+    border-style: none;
+    border-radius: 10px;
+
+}
+
+.formulario input{
+    padding: 15px 25px;
+    font-size: 14px;
+    border-style: none;
+    border-radius: 10px;
+    color: rgb(23, 22, 22);
+}
+
+.procont{
+    display: flex;
+    justify-content: center;
+}
+
+.productos{
+    width: 500px;
+    margin: 15px 25px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 25px;
+    text-align: center;
+    color: black;
+}
+
+.productos p{
+    padding: 0%;
+}
+
+.productos li{
+    padding: 0%;
+    list-style: none;
+}
+
+.lista{
+    width: 500px;
+    margin: 15px 25px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 25px;
+    text-align: center;
+    color: black;
+}
+
+.lista li{
+    list-style: none;
+}
+
+button{
+    color: black;
+}
+
